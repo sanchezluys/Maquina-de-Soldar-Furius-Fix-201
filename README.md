@@ -1,7 +1,13 @@
 # Maquina-de-Soldar-Furius-Fix-201
 Maquina de Soldar Furius Fix 201
 
-<img width="973" height="691" alt="imagen" src="https://github.com/user-attachments/assets/e67d7d10-b09e-4ce7-a6ad-ab87a8228b6a" />
+![alt text](image.png)
+
+---
+
+Tarjeta resonadora
+
+![1757268913678](image/README/1757268913678.png)
 
 ---
 
